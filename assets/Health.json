@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/fernando-alfonso-iii\">Fernando Alfonso III</a>, <a href=\"/profiles/amir-vera\">Amir Vera</a>, <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a> and <a href=\"/profiles/james-griffiths\">James Griffiths</a>, CNN",
+    "title": "Coronavirus pandemic updates from around the world - CNN International",
+    "description": "The coronavirus pandemic has brought countries to a standstill. Here's the latest updates on Covid-19 cases, deaths, government responses and more.",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-31-20-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
+    "publishedAt": "2020-05-31T02:31:00Z",
+    "content": "Extremely vulnerable people in Great Britain who have been \"shielding\"  staying at home at all times and avoiding any face-to-face contact  will be allowed outdoors from Monday, the UK government sai… [+2946 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Chicago Tribune"
+    },
+    "author": "Chicago Tribune staff",
+    "title": "Coronavirus in Illinois updates: Here’s what’s happening this weekend - Chicago Tribune",
+    "description": "Here are the latest updates on the coronavirus in the Chicago area and the rest of Illinois.",
+    "url": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-pandemic-chicago-illinois-news-20200530-y4hd43iiq5fvpbke7pd7c4ln4m-story.html",
+    "urlToImage": "https://www.chicagotribune.com/resizer/Vlr8Q9TAIkgbCyzfZIc-upRMjcU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HUNX3NHK5BH33BWG4TT5NTKYLI",
+    "publishedAt": "2020-05-30T22:25:17Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "STAT"
+    },
+    "author": null,
+    "title": "Experts warn of dire global consequences if US withdraws from WHO - STAT",
+    "description": "An American withdrawal from the WHO could wreak profound damage on efforts to eradicate polio and respond to disease threats, experts warned.",
+    "url": "https://www.statnews.com/2020/05/30/who-withdrawal-dire-consequences/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1197377327-1024x576.jpg",
+    "publishedAt": "2020-05-30T21:10:16Z",
+    "content": "An American withdrawal from the World Health Organization could wreak profound damage on the global effort to eradicate polio and could undermine the worlds ability to detect and respond to disease t… [+5385 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WBAL TV Baltimore"
+    },
+    "author": "National Desk Staff",
+    "title": "National coronavirus updates: CDC to resume regular COVID-19 briefings - WBAL Baltimore",
+    "description": "The Centers for Disease Control and Prevention will resume its regular briefings as the administration continues its coronavirus response.",
+    "url": "https://www.wbaltv.com/article/national-coronavirus-updates-may-30/32718328",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/birx-cdc-getty-1590852116.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+    "publishedAt": "2020-05-30T20:34:00Z",
+    "content": "The latest:\r\n<ul><li>There have been more than 1.7 million coronavirus cases in the United States, according to the Johns Hopkins University tally.</li><li>The U.S. death toll has surpassed 103,000 p… [+8902 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thebeet.com"
+    },
+    "author": "ldanziger",
+    "title": "The Vegan Diet for Weight Loss is Trending. Here's How to Do It - The Beet",
+    "description": "The Vegan Diet is gaining in popularity during COVID-19 because consumers are trying to stay away from meat, lose weight, and be healthy. The secret is fiber.",
+    "url": "https://thebeet.com/trending-the-vegan-diet-for-weight-loss-bye-bye-keto/",
+    "urlToImage": "https://townsquare.media/site/959/files/2020/05/GettyImages-vegan-diet.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
+    "publishedAt": "2020-05-30T19:53:00Z",
+    "content": "Right now everyone wants a piece of healthy weight loss success, and more and more people are trying the Vegan Diet, also known as the Plant-Based Diet. Unlike keto diets, which are both hard to sust… [+6950 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "UpNorthLive.com"
+    },
+    "author": "Trevor Drew",
+    "title": "Health department: Spike in COVID-19 cases due to residents not following guidelines - UpNorthLive.com",
+    "description": "NEWAYGO/OCEANA COUNTIES, Mich. , (WPBN/WGTU) -- District Health Department #10 said COVID-19 cases in Newaygo and Oceana Counties have spiked over the past several weeks partly because some residents aren&rsquo;t adhering to guidance to prevent the spread of …",
+    "url": "http://upnorthlive.com/news/local/health-department-spike-in-covid-19-cases-due-to-residents-not-following-guidelines",
+    "urlToImage": "http://static-26.sinclairstoryline.com/resources/media/80608cc5-a917-4058-9e7c-26bef833f737-large16x9_GettyImages1215220207.jpg?1590866461663",
+    "publishedAt": "2020-05-30T19:25:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WYFF4 Greenville"
+    },
+    "author": null,
+    "title": "266 new cases of COVID-19 in SC, 4 additional deaths, DHEC says - WYFF4 Greenville",
+    "description": "South Carolina Department of Health and Environmental Control officials reported 266 new cases of COVID-19 Saturday, bringing the statewide case count to 11,394.",
+    "url": "https://www.wyff4.com/article/266-new-cases-of-covid-19-in-sc-4-additional-deaths-dhec/32719847",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-sc-1589320176.jpg?crop=1.00xw:0.989xh;0,0&resize=1200:*",
+    "publishedAt": "2020-05-30T19:17:18Z",
+    "content": "South Carolina Department of Health and Environmental Control officials reported 266 new cases of COVID-19 Saturday, bringing the statewide case count to 11,394.\r\nDHEC also announced four additional … [+366 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KUTV 2News"
+    },
+    "author": "Mark Klekas",
+    "title": "May 30 data: 5 deaths, 269 new confirmed COVID-19 cases - KUTV 2News",
+    "description": "KUTV &mdash; Utah reported five new deaths on Saturday and 269 new cases.  The Utah Department of Health specified that one of the deaths was previously reported but was only confirmed today to have died from the virus. The four other deaths include three peo…",
+    "url": "http://kutv.com/news/local/may-30-data-5-deaths-269-new-confirmed-covid-19-cases",
+    "urlToImage": "http://static-30.sinclairstoryline.com/resources/media/480c3fab-ead9-4789-9c89-6815fd96cebc-large16x9_provocovidcoronavirustesting3.png?1590864290007",
+    "publishedAt": "2020-05-30T18:45:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WJCL News"
+    },
+    "author": "Staff Report",
+    "title": "BREAKING: A resident from McIntosh County has died from COVID-19 - WJCL News",
+    "description": "BREAKING: 63-year-old female dies from COVID-19 in McIntosh County",
+    "url": "https://www.wjcl.com/article/breaking-a-resident-from-mcintosh-county-has-died-from-covid-19/32719750",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/breaking-news-1521547435.png?crop=0.982xw:0.983xh;0,0&resize=1200:*",
+    "publishedAt": "2020-05-30T18:16:00Z",
+    "content": "(Above video-unrelated: Today's Headlines)\r\nMCINTOSH COUNTY, GA(WJCL) The Coastal Health District has confirmed that a resident of McIntosh County has died from complications of COVID-19. The individ… [+246 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "syracuse.com"
+    },
+    "author": "Teri Weaver | tweaver@syracuse.com",
+    "title": "Update: NY dentists say they’re free to open for all services, despite what Cuomo staff says - syracuse.com",
+    "description": "Emergency dental care is still allowed in all regions of New York.",
+    "url": "https://www.syracuse.com/back-in-business/2020/05/coronavirus-in-ny-expanded-dentist-care-is-not-in-phase-2-state-says.html",
+    "urlToImage": "https://www.syracuse.com/resizer/zU83gnNaHWTHbV58-vDdqpYNkzU=/1280x0/filters:focal(327x287:337x277)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/24XADODA7NC5HLOXHM5CCR6E74.jpg",
+    "publishedAt": "2020-05-30T18:09:17Z",
+    "content": "Editors note: This story has been updated with comments from the New York State Dental Association.\r\nSyracuse, N.Y. Expanded dentist care is not a part of the states phase two of reopening businesses… [+2908 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WZZM13.com"
+    },
+    "author": "13 ON YOUR SIDE Staff",
+    "title": "Whitmer extends protections for grocery stores, including mask requirement - WZZM13.com",
+    "description": "Michigan's stay at home order is also currently in place until June 12.",
+    "url": "https://www.wzzm13.com/article/news/local/michigan/whitmer-grocery-store-protections/69-d86e0427-cdb5-47d2-9741-1b984ee339b1",
+    "urlToImage": "https://media.wzzm13.com/assets/WZZM/images/77d8ec98-ed37-47eb-b5cb-40fcba7e5453/77d8ec98-ed37-47eb-b5cb-40fcba7e5453_1140x641.jpg",
+    "publishedAt": "2020-05-30T17:55:00Z",
+    "content": "LANSING, Mich. Gov. Gretchen Whitmer signed an executive order Friday that extended protections for grocery stores and pharmacies amid the COVID-19 pandemic. These safety measures will remain in effe… [+1014 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Kate Holton",
+    "title": "England risks COVID-19 resurgence by ending lockdown too soon, scientific advisers say - Reuters",
+    "description": "England risks losing control of the coronavirus pandemic again and is at a \"very dangerous moment\" as it starts to ease out of the COVID-19 lockdown, senior scientific and medical advisers warned on Saturday.",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKBN23609W",
+    "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200530&t=2&i=1520472540&w=1200&r=LYNXMPEG4T0GS",
+    "publishedAt": "2020-05-30T17:50:52Z",
+    "content": "LONDON (Reuters) - England risks losing control of the coronavirus pandemic again and is at a “very dangerous moment” as it starts to ease out of the COVID-19 lockdown, senior scientific and medical … [+3094 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Chris Smith",
+    "title": "CDC: Coronavirus began spreading in the US much sooner than we thought - BGR",
+    "description": "The novel coronavirus began spreading in the US even earlier than believed, according to new research from the Centers for Disease Control and Prevention (CDC). COVID-19 community transmission may have happened as early as January, several weeks before the or…",
+    "url": "https://bgr.com/2020/05/30/coronavirus-spread-cdc-community-transmission-started-in-late-january/",
+    "urlToImage": "https://boygeniusreport.files.wordpress.com/2020/05/rsz_10621673d.jpg?quality=70&strip=all",
+    "publishedAt": "2020-05-30T17:22:05Z",
+    "content": "<ul><li>The novel coronavirus began spreading in the US even earlier than believed, according to new research from the Centers for Disease Control and Prevention (CDC).</li><li>COVID-19 community tra… [+5120 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Adrienne Dunn",
+    "title": "Fact check: Wearing a face mask will not cause hypoxia, hypoxemia or hypercapnia - USA TODAY",
+    "description": "Face masks have become controversial, resulting in misinformation. The claims that mask wearing limits oxygen and leads to CO2 poisoning aren't true.",
+    "url": "https://www.usatoday.com/story/news/factcheck/2020/05/30/fact-check-wearing-face-mask-not-cause-hypoxia-hypercapnia/5260106002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2020/05/15/USAT/e33b9181-fd5c-4bdf-b297-2710947cfb80-gettyimage-facemasks.jpg?crop=2120,1193,x0,y107&width=1600&height=800&fit=bounds",
+    "publishedAt": "2020-05-30T16:34:19Z",
+    "content": "This is how often you should wash your cloth face mask.\r\nUSA TODAY\r\nThe claim: Face masks drastically reduce oxygen intake, cause carbon dioxide toxicity \r\nAs states are reopening, health guidelines … [+6365 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Casper Star-Tribune Online"
+    },
+    "author": "Star-Tribune staff",
+    "title": "Daily Wyoming coronavirus update: 7 new cases, 16 new recoveries - Casper Star-Tribune Online",
+    "description": "Twelve new confirmed recoveries were announced. Four new probable recoveries were also reported.",
+    "url": "https://trib.com/news/state-and-regional/health/daily-wyoming-coronavirus-update-7-new-cases-16-new-recoveries/article_5028a288-624e-5ade-9f25-0eeea3f60084.html",
+    "urlToImage": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/d/ca/dca347ed-a2c1-5d89-bfcc-a6630795495d/5ed287b3518d6.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+    "publishedAt": "2020-05-30T16:24:16Z",
+    "content": "Nurse Cristina Gonzalez grabs lab bags with samples to be tested for COVID-19 at a drive-thru clinic in April in Arapahoe.\r\nCayla Nimmo, Star-Tribune\r\nOn Saturday, six new coronavirus cases were conf… [+1058 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Navajotimes.com"
+    },
+    "author": "Arlyssa Becenti",
+    "title": "First coronavirus-related syndrome affecting children reported in McKinley County - Navajo Times",
+    "description": "A syndrome associated with the coronavirus that affects children has affected an infant in McKinley County.",
+    "url": "https://navajotimes.com/reznews/first-coronavirus-related-syndrome-affecting-children-reported-in-mckinley-county/",
+    "urlToImage": "https://navajotimes.com/wp-content/uploads/2020/03/0312_CDC_COVID-19.jpg",
+    "publishedAt": "2020-05-30T16:08:15Z",
+    "content": "WINDOW ROCK\r\nA syndrome associated with the coronavirus that affects children has affected an infant in McKinley County.\r\nCalled, Multisystem Inflammatory Syndrome in Children, or MIS-C, the infant w… [+1312 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Paula Froelich",
+    "title": "Scientists say an apocalyptic bird flu could wipe out half of humanity - New York Post ",
+    "description": "The coronavirus has killed over 365,000 people worldwide in just five months — but that’s nothing compared to what could be coming if humans don’t clean up their act when it comes to chickens. In h…",
+    "url": "https://nypost.com/2020/05/30/apocalyptic-bird-flu-could-wipe-out-half-of-humanity-scientists/",
+    "urlToImage": "https://thenypost.files.wordpress.com/2020/05/200530-bird-flu.jpg?quality=90&strip=all&w=1200",
+    "publishedAt": "2020-05-30T15:56:24Z",
+    "content": "The coronavirus has killed over 365,000 people worldwide in just five months but thats nothing compared to what could be coming if humans dont clean up their act when it comes to chickens.\r\nIn his ne… [+2309 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Andrew Kaczynski, Nathan McDermott and Em Steck, CNN",
+    "title": "From AIDS to Covid-19: Trump's decades of spreading dangerous misinformation about disease outbreaks - CNN",
+    "description": "Donald Trump has spent decades spreading and sowing dangerous misinformation about disease outbreaks -- from falsely suggesting AIDS can be transmitted through kissing to warning Americans not to get vaccinated and falsely suggesting vaccines can cause autism.",
+    "url": "https://www.cnn.com/2020/05/30/politics/kfile-trump-history-of-medical-misinformation/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200527171155-204-trump-lead-image-super-tease.jpg",
+    "publishedAt": "2020-05-30T15:12:57Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AL.com"
+    },
+    "author": "Leada Gore | lgore@al.com",
+    "title": "17,031 coronavirus cases in Alabama, 610 deaths; Latest county-by-county numbers - AL.com",
+    "description": "The latest coronavirus cases in Alabama.",
+    "url": "https://www.al.com/news/2020/05/17031-coronavirus-cases-in-alabama-610-deaths-latest-county-by-county-numbers.html",
+    "urlToImage": "https://www.al.com/resizer/KhBQRptJFWajfhQ-TP80BUMo79s=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DHWFJ3CF4BELJA5R4GHNAZEPTE.jpg",
+    "publishedAt": "2020-05-30T14:15:40Z",
+    "content": "The number of coronavirus cases in Alabama has topped 17,000.\r\nThe Alabama Department of Public Healths May 30 9 a.m. numbers show 17,031 coronavirus cases in the state, an increase of 477 from the p… [+1885 chars]"
+    },
+    {
+    "source": {
+    "id": "the-jerusalem-post",
+    "name": "The Jerusalem Post"
+    },
+    "author": null,
+    "title": "COVID-19 immunity lasts only six months, reinfection possible - study - The Jerusalem Post",
+    "description": "Since there is no treatment or vaccine for the novel coronavirus, the only way to stop its spread is through social distancing and good hygiene.",
+    "url": "https://www.jpost.com/health-science/could-coronavirus-re-infection-be-possible-within-six-months-629575",
+    "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/457558",
+    "publishedAt": "2020-05-30T13:46:09Z",
+    "content": null
+    }
+    ]
+    }

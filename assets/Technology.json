@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "",
+    "title": "'Sign in with Apple' flaw let attackers take over accounts - Engadget",
+    "description": "A recently fixed 'Sign in with Apple' bug would have let intruders take control of accounts.",
+    "url": "https://www.engadget.com/sign-in-with-apple-account-takeover-flaw-003450962.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8175dda0-a2bf-11ea-bdff-c644511d1889&client=amp-blogside-v2&signature=19a60920cbd3a8f837e9672400c900c3432614aa",
+    "publishedAt": "2020-05-31T01:06:45Z",
+    "content": "‘Sign in with Apple’ is potentially more private than other login options, but it apparently included a serious security flaw. Researcher Bhavuk Jain recently received a $100,000 bug bounty for disco… [+504 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Eric Slivka",
+    "title": "Apple Doubles the Price of RAM Upgrade on Entry-Level 13-Inch MacBook Pro - MacRumors",
+    "description": "Apple today doubled the price for upgrading the RAM on the entry-level 13-inch MacBook Pro, with customers in the United States now being charged...",
+    "url": "https://www.macrumors.com/2020/05/30/13-inch-macbook-pro-ram-upgrade-doubled/",
+    "urlToImage": "https://images.macrumors.com/article-new/2020/05/macbook_pro_13_ram_increase.jpg",
+    "publishedAt": "2020-05-30T23:02:40Z",
+    "content": "Apple today doubled the price for upgrading the RAM on the entry-level 13-inch MacBook Pro, with customers in the United States now being charged $200 to move from 8GB to 16GB compared to the previou… [+1840 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Alyse Stanley",
+    "title": "Microsoft Replaces MSN Journalists with Artificial intelligence - Gizmodo",
+    "description": "Dozens of contract journalists at Microsoft’s MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiple reports this week.",
+    "url": "https://gizmodo.com/microsofts-switching-out-msns-contract-journalists-for-1843782592",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cx1ft2zztgrba3xvwvi1.jpg",
+    "publishedAt": "2020-05-30T22:15:06Z",
+    "content": "Dozens of contract journalists at Microsofts MSN and Microsoft News organizations are being phased out in favor of artificial intelligence, according to multiplereports this week.\r\nBetween Wednesday … [+3116 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Animal Crossing: New Horizons Spin the Wheel Challenge! - Nintendo",
+    "description": "Nintendo Minute is never a minute! We hope you’re having a good week. We discovered that there is a wheel in Animal Crossing: New Horizons so of course we HA...",
+    "url": "https://www.youtube.com/watch?v=L4eeRAEudVw",
+    "urlToImage": "https://i.ytimg.com/vi/L4eeRAEudVw/maxresdefault.jpg",
+    "publishedAt": "2020-05-30T22:00:05Z",
+    "content": "Nintendo Minute is never a minute! We hope youre having a good week. We discovered that there is a wheel in Animal Crossing: New Horizons so of course we HAD to do a spin the wheel challenge. The los… [+742 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Willamette Week"
+    },
+    "author": "By Aaron Mesh",
+    "title": "Portland Looters Raid Apple Store, Pioneer Place and Downtown Shops Until Wee Hours - Willamette Week",
+    "description": "The looters were masked, but they appeared young and predominantly white.",
+    "url": "https://www.wweek.com/news/2020/05/30/portland-looters-raid-apple-store-pioneer-place-and-downtown-shops-until-wee-hours/",
+    "urlToImage": "https://www.wweek.com/resizer/-YwBbHxAizYuMBAlm9NP4Q27mo0=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/05/30144018/portland_riot-38-1.jpg",
+    "publishedAt": "2020-05-30T21:56:08Z",
+    "content": "Portland rioters smashed shop windows and looted downtown stores until nearly 4 am today.\r\nThe looting followed a protest of the May 26 police killing of George Floyd in Minneapolis. That demonstrati… [+1219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "autoevolution"
+    },
+    "author": "Mihnea Radu",
+    "title": "Widebody Ford Mustang \"Unicorn\" Has Clinched Roadster Top - autoevolution",
+    "description": "The Ford Mustang is the furthest thing from a unicorn. In fact, it's quite common and held multiple sales records over the years. But we've yet to come across a tuning project as bold as this.",
+    "url": "https://www.autoevolution.com/news/widebody-ford-mustang-unicorn-has-clinched-roadster-top-144297.html",
+    "urlToImage": "https://s1.cdn.autoevolution.com/images/news/widebody-ford-mustang-unicorn-has-clinched-roadster-top-144297-7.jpg",
+    "publishedAt": "2020-05-30T20:50:00Z",
+    "content": "It's called the M86 Unicorn and claims to be the first Clinched widebody convertible in the world. A little while ago, we featured one that claims to be the first in America, so it all lines up now.C… [+1372 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Drive"
+    },
+    "author": "Caleb Jacobs",
+    "title": "Video Gives Best Look Yet at 2021 Ford Bronco Being Abused Off-Road - The Drive",
+    "description": "Georgia clay isn't easy on any 4x4, but the new Bronco doesn't seem to mind.",
+    "url": "https://www.thedrive.com/news/33775/leaked-video-gives-best-look-yet-at-2021-ford-bronco-being-abused-off-road",
+    "urlToImage": "https://api.thedrive.com/wp-content/uploads/2020/05/Bronco-Hero-2.jpg?quality=85",
+    "publishedAt": "2020-05-30T20:01:59Z",
+    "content": "Music plays through the entire video, so it's nearly impossible to identify the engine note as a four- or six-cylinder. Regardless, the Broncos appear to have plenty of power as they muscle up steep,… [+985 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Director Ani Acopian breaks down her drone-shot video, ’A World Artists Love’ - TechCrunch",
+    "description": "“A drone is a camera,” Ani Acopian begins simply. “And it can fly. It’s basically a flying super-camera! I’d love to see more film and TV productions embrace the nimble and magical nature of drones and use them for more than bird’s eye view establishing shots…",
+    "url": "http://techcrunch.com/2020/05/30/director-ani-acopian-breaks-down-the-her-drone-shot-video-a-world-artists-love/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-29-at-5.01.13-PM.png?w=764",
+    "publishedAt": "2020-05-30T19:56:39Z",
+    "content": "A drone is a camera, Ani Acopian begins simply. And it can fly. Its basically a flying super-camera! Id love to see more film and TV productions embrace the nimble and magical nature of drones and us… [+4487 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "David Katzmaier",
+    "title": "The best 55-inch TV for 2020: LG, TCL and more compared - CNET",
+    "description": "They're like 65-inch TVs, only smaller.",
+    "url": "https://www.cnet.com/news/the-best-55-inch-tv-for-2020-lg-tcl-more-compared/",
+    "urlToImage": "https://cnet4.cbsistatic.com/img/37ySsOJMspZsU_m01WTHT6SKfNs=/756x567/2019/02/04/b6c89206-75b6-4e27-9082-ae493d56e10b/17-tcl-s325-s425-series.jpg",
+    "publishedAt": "2020-05-30T19:20:54Z",
+    "content": "If you haven't purchased a television in eons, you may be surprised to learn that a 55-inch TV is currently considered a medium or even a small screen size. LCD TVs are now so popular and numerous th… [+5912 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Windows Central"
+    },
+    "author": "Mauro Huculak",
+    "title": "How to disable 'Get even more out of Windows' notification on Windows 10 May 2020 Update - Windows Central",
+    "description": "In this guide, we'll show you the steps to disable the option that will recommend to enable and configure additional features after upgrading to a new version of Windows 10.",
+    "url": "https://www.windowscentral.com/how-disable-get-even-more-out-windows-notification-windows-10-may-2020-update",
+    "urlToImage": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/03/disable-get-more-windows-10-prompt-2004.jpg?itok=mR3QzgQq",
+    "publishedAt": "2020-05-30T19:00:02Z",
+    "content": "On Windows 10, after you upgrade to a new version (such as the May 2020 Update), restart your device, or you simply sign out and back into the desktop, you may now see a new \"Get even more out of Win… [+1703 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Jason Cipriani",
+    "title": "Want your iPad to last longer? 6 ways to extend its life - CNET",
+    "description": "Instead of waiting for your iPad to show signs of slowing down, here are six things you can do to prolong its life.",
+    "url": "https://www.cnet.com/how-to/want-your-ipad-to-last-longer-6-ways-to-extend-its-life/",
+    "urlToImage": "https://cnet3.cbsistatic.com/img/nDE0ceIkrgfwewSJ4THNCohj448=/756x567/2019/11/26/2a4ff44f-b3dc-4673-9263-fff65bdfaa2d/cnet-ipad-black-friday.jpg",
+    "publishedAt": "2020-05-30T18:43:53Z",
+    "content": "Apple's iPad can last a long time, you just need to take care of it. \r\nSarah Tew\r\nThe number of years we expect a laptop, iPhone or iPad -- any gadget, really -- to work never seems to match up with … [+8118 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Arda Ocal",
+    "title": "Riot Games unveils Reyna, 11th VALORANT agent - ESPN",
+    "description": "Riot Games announced the newest VALORANT agent on Saturday. The FPS game's 11th agent is named Reyna and hails from Mexico.",
+    "url": "https://www.espn.com/esports/story/_/id/29245335/riot-games-unveils-reyna-11th-valorant-agent",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0530%2Fr703750_1296x729_16%2D9.jpg",
+    "publishedAt": "2020-05-30T18:01:48Z",
+    "content": "Riot Games has revealed the newest VALORANT agent.\r\nThe 11th VALORANT agent, Reyna, is from Mexico. The announcement video posted to Twitter shows 30 seconds of her gameplay, including a brief introd… [+1362 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Inverse"
+    },
+    "author": "Just Lunning",
+    "title": "'Last of Us 2' spoilers: Why the first game's secret epilogue may be crucial - Inverse",
+    "description": "Leaks aside, the plot of 'The Last of Us Part 2' remains a mystery, but there's a lot of evidence from trailers that the sequel will adapt a secret 'Last of Us' epilogue that only 200 people have seen.",
+    "url": "https://www.inverse.com/gaming/last-of-us-2-spoilers-theory-ellie-joel-guitar",
+    "urlToImage": "https://imgix.bustle.com/uploads/image/2020/5/29/4c74f4c3-eb88-452d-8292-03c1c55ebfda-the-last-of-us-part-ii-1400x787.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+    "publishedAt": "2020-05-30T18:00:00Z",
+    "content": "Last of Us Part II trailers have revealed little of the games story (even if major spoilers via leaks are out there), but there's a lot to glean from the secret Last of Us epilogue that youve probabl… [+5643 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kotaku"
+    },
+    "author": "Zack Zwiezen",
+    "title": "The Best Video Games Starring Sharks - Kotaku",
+    "description": "There have been a lot of video games released over the years that feature sharks, but not as many let you play as these smooth and deadly beasts. And often shark games aren’t very good. But some stand out.",
+    "url": "https://thebests.kotaku.com/the-best-video-games-starring-sharks-1843611686",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/plu9e47wfnscefhqcbwu.jpg",
+    "publishedAt": "2020-05-30T18:00:00Z",
+    "content": "There have been a lot of video games released over the years that feature sharks, but not as many let you play as these smooth and deadly beasts. And often shark games arent very good. But some stand… [+3143 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Drive"
+    },
+    "author": "Caleb Jacobs",
+    "title": "Mk4 Toyota Supra Breaks Stick-Shift Record With Six-Second Quarter-Mile - The Drive",
+    "description": "Oh, and it's still rear-wheel-drive.",
+    "url": "https://www.thedrive.com/news/33773/mk4-toyota-supra-breaks-stick-shift-record-with-six-second-quarter-mile-run",
+    "urlToImage": "https://api.thedrive.com/wp-content/uploads/2020/05/Stick-Supra-Hero.jpg?quality=85",
+    "publishedAt": "2020-05-30T17:55:18Z",
+    "content": "When it comes to import drag cars, the Mk4 Toyota Supra is king. With so many shops and aftermarket companies dedicating time and resources to the platform, we've seen quarter-mile records fall almos… [+793 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PhoneArena"
+    },
+    "author": "Alan Friedman",
+    "title": "Google postpones release of Android 11 beta - PhoneArena",
+    "description": "Google has postponed the release of the first Android 11 beta because of the social unrest that the U.S. experienced on Friday. Scheduled for June 3rd, the event will be rescheduled for a later ...",
+    "url": "https://www.phonearena.com/news/android-11-beta-delayed_id124997",
+    "urlToImage": "https://i-cdn.phonearena.com/images/article/124997-two/Google-postpones-release-of-Android-11-beta.jpg",
+    "publishedAt": "2020-05-30T17:14:00Z",
+    "content": "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": null,
+    "title": "How to prevent apps \"sleeping\" in the background on Android - Android Police",
+    "description": "There's nothing worse than picking up your phone, turning it on, only to realize the notification it's just received was probably supposed to have reached",
+    "url": "https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/",
+    "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2019/12/Pile-of-2019-flagship-phones-668x445.jpg",
+    "publishedAt": "2020-05-30T16:47:46Z",
+    "content": "This story was originally published 2020/01/21 10:39am PSTon Jan 21, 2020 and last updated 2020/05/30 9:35am PDTon May 30, 2020. \r\nThere's nothing worse than picking up your phone, turning it on, onl… [+3024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PhoneArena"
+    },
+    "author": "Anam Hamid",
+    "title": "Samsung Access program launched for Galaxy S20, includes 1TB of cloud storage and Office 365 - PhoneArena",
+    "description": "The subscription service starts at $37/month for the Galaxy S20 and also includes Premium Care.",
+    "url": "https://www.phonearena.com/news/Samsung-Access-program-launched_id125000",
+    "urlToImage": "https://i-cdn.phonearena.com/images/article/125000-two/Samsung-Access-program-launched-for-Galaxy-S20-includes-1TB-of-cloud-storage-and-Office-365.jpg",
+    "publishedAt": "2020-05-30T16:31:00Z",
+    "content": "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Essentially Sports"
+    },
+    "author": "https://www.facebook.com/samir13.satam",
+    "title": "Sony CEO Opens Up on PlayStation 5 Pricing Strategy - Essentially Sports",
+    "description": "As news about Sony's Playstation 5 starts to finally come in more consistently, we take a look at what the CEO had to say about the pricing.",
+    "url": "https://www.essentiallysports.com/sony-ceo-opens-up-on-playstation-5-pricing-strategy-ps3-esports-news/",
+    "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/20200530212521/Screenshot-2023.jpg",
+    "publishedAt": "2020-05-30T16:00:00Z",
+    "content": "Sony is finally opening-up on its next-gen console, PlayStation 5, after having kept mum for most of the year. With a game reveal showcase now confirmed for June 4, we can expect further news to star… [+3158 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Rae Hodge",
+    "title": "The best VPN service for 2020 - CNET",
+    "description": "CNET recommends the best VPN service after reviewing and testing the top VPN providers like ExpressVPN, NordVPN, Surfshark, CyberGhost, IPVanish, Hotspot Shield, Private Internet Access and others.",
+    "url": "https://www.cnet.com/news/best-vpn-service-of-2020/",
+    "urlToImage": "https://cnet3.cbsistatic.com/img/wBo4d5xwXlq87GiAb4OLIafHNUo=/2018/02/13/a2c1115b-f67a-4d38-82e1-9cb84ad52499/shutterstock-562225894.jpg",
+    "publishedAt": "2020-05-30T15:37:30Z",
+    "content": "Even as lockdown restrictions are easing, millions of people are still working from home, which makes remote VPN access more important than ever. But in the ever-growing market of commercial virtual … [+30279 chars]"
+    }
+    ]
+    }
